@@ -1,0 +1,22 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.5;
+  font-size: 1.125rem;
+  text-align: center;
+}
+
+canvas {
+  border: 1px solid grey;
+}
+
+input,
+button,
+select {
+  font: inherit;
+  border-radius: 5px;
+}
+
+button {
+  padding-inline: 20px;
+  cursor: pointer;
+}
